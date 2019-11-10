@@ -12,3 +12,4 @@
 2. TFDS + Time Series + Simple RNN + Sequence to Sequence RNN - https://github.com/Shauqi/Important-Codes/blob/master/Time%20Series%20Forecasting%20Seq%20to%20Seq.ipynb
 3. TFDS + Time Series + Stateful RNN - https://github.com/Shauqi/Important-Codes/blob/master/Time%20Series%20Forecasting%20with%20stateful%20rnn.ipynb
 4. TFDS + Time Series + Stateful LSTM - https://github.com/Shauqi/Important-Codes/blob/master/Time%20Series%20Forecasting%20with%20Lstm.ipynb 
+5. TFDS + Time Series + CNN + Wavenet - https://github.com/Shauqi/Important-Codes/blob/master/Time%20Series%20Forecasting%20with%20CNN%20and%20Wavenet.ipynb
