@@ -19,3 +19,4 @@
 
 ### Natural Language Processing
 1. [Tokenization of Words using Keras](https://github.com/Shauqi/Important-Codes/blob/master/Tokenization%20With%20Keras.ipynb)
+2. [Single Layer LSTM on IMDB Movie Review using TFDS](https://github.com/Shauqi/Important-Codes/blob/master/Single%20Layer%20LSTM%20on%20IMDB%20Movie%20Review.ipynb)
