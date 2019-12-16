@@ -18,8 +18,8 @@
 4. [TFDS + Time Series + Stateful RNN](https://github.com/Shauqi/Important-Codes/blob/master/Time%20Series%20Forecasting%20with%20stateful%20rnn.ipynb)
 5. [TFDS + Time Series + Stateful LSTM](https://github.com/Shauqi/Important-Codes/blob/master/Time%20Series%20Forecasting%20with%20Lstm.ipynb)
 6. [TFDS + Time Series + CNN + Wavenet](https://github.com/Shauqi/Important-Codes/blob/master/Time%20Series%20Forecasting%20with%20CNN%20and%20Wavenet.ipynb)
-7. [Analysis on Brownlee Temperature Dataset](https://github.com/Shauqi/Templates-for-deep-learning/blob/master/Brownlee%20Temperature%20dataset.ipynb)
-8. 
+7. [Analysis on Brown lee Temperature Dataset (Univariate Time Series)](https://github.com/Shauqi/Templates-for-deep-learning/blob/master/Brownlee%20Temperature%20dataset.ipynb)
+8. [Analysis on Sunspot Dataset (Univariate Time Series)](https://github.com/Shauqi/Templates-for-deep-learning/blob/master/Sunspot_Dataset.ipynb)
 
 ### Natural Language Processing
 1. [Tokenization of Words using Keras](https://github.com/Shauqi/Important-Codes/blob/master/Tokenization%20With%20Keras.ipynb)
