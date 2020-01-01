@@ -7,6 +7,9 @@
 1. [TF Lite + Linear Regression + TF Lite Interpreter](https://github.com/Shauqi/Important-Codes/blob/master/TFlite%20linear%20regression%20and%20TFlite%20Interpreter.ipynb)
 2. [TF Lite + Transfer Learning + Post Quantization + TF Lite Interpreter + Dynamic Hyperparameter Tuning](https://github.com/Shauqi/Important-Codes/blob/master/TF%20Lite%20Transfer%20Learning%20and%20Post%20Quantization.ipynb)
 
+### Tensorflow for Javascript
+1. [Code Repository of Online Course by Laurence Moroney](https://github.com/Shauqi/dlaicourse/tree/master/TensorFlow%20Deployment/Course%201%20-%20TensorFlow-JS)
+
 ### Computer Vision
 1. [Working with tensorflow datasets (TFDS) - Example- Fashion MNIST Classification](https://github.com/Shauqi/Important-Codes/blob/master/Working_With_TFDS_Classifying_Images_of_Clothing.ipynb)
 2. [Working with tensorflow datasets (TFDS) and Transfer Learning - Example - Cats and Dogs classification](https://github.com/Shauqi/Important-Codes/blob/master/TFDS_Transfer_Learning_with_TensorFlow_Hub_Cats_and_dogs_classification.ipynb)
